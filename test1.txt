@@ -1,1 +1,1 @@
-'this is a test; Bill Moers' 
+'this is a test' 
